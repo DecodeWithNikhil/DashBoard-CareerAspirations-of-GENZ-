@@ -1,3 +1,5 @@
+![image](https://github.com/aspiringNikhil/KultureHire-work/assets/151496942/095faf22-0f27-4223-b7b0-1231326328ee)
+
 # Welcome to My KultureHire Internship Portfolio
 
 Hello there! 👋 I'm thrilled to share my journey and accomplishments during my internship at KultureHire. This repository is a dedicated space where I've meticulously documented my data analytics tasks, showcasing my proficiency in SQL and Power BI.
